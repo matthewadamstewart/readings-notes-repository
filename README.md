@@ -1,4 +1,4 @@
-# Readings-Rotes-Repository
+# Readings-Notes-Repository
 
 ## Notes for my Readings in Code Fellows 301 Course
 
