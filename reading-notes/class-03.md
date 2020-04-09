@@ -80,7 +80,7 @@
 * > space-around: Lines display with equal spacing around them.
 * > stretch: Lines are stretched to fit the container.
 
-[!img](Forggy-win.png)
+![My Victory Image](Froggy-win.png)
 
 
 
