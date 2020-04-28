@@ -1,8 +1,8 @@
 # Readings-Notes-Repository
 
-## Class 01 notes for my Readings in Code Fellows 301 Course
+## Class 13 notes for my Readings in Code Fellows 301 Course
 
-[README.md](Back To Main)
+[Back To Main](README.md)
 
 
 ### 
