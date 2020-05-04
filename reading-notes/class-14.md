@@ -8,6 +8,9 @@
 ### Reading 14a
 [Essential: Database Normalization Explained in Simple English](https://www.essentialsql.com/get-ready-to-learn-sql-database-normalization-explained-in-simple-english/)
 
+
+
+
 ### Reading 14b
 
 > Project Ideas

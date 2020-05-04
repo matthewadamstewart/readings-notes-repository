@@ -25,7 +25,12 @@
 ![Tags](/tags-includes.jpg)
 
 
+Goes on to show other examples and summarizes that it is very straight forward, basicallt that this makes can passing data from our Node + Express application to our views in the next section easy. I agree,
+
 ### Videos
 [Watch EJS tutorial from WalkThroughCode on YouTube, Video 7, Partials](https://www.youtube.com/watch?v=3_xEEH4fTEk&t=0s&index=7&list=PL7sCSgsRZ-slYARh3YJIqPGZqtGVqZRGt)
 
 This is a short, 3-minute video.
+
+Partials are native to EJS, these are useful for pieces that remain static like footers, nav bar or possibly headers
+Explained using the ```<%-``` tag and how to include with a path. Very quick an easy to understand directions, liked an subscribed as Matthew Stewart (using the email associated with my Minecraft account, as that's where I do most of my youtube viewing)
