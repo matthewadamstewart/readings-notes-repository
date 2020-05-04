@@ -22,7 +22,7 @@
 * from that being stored in the file in the location noted in the comment you'd be able to use ```<%- include( PARTIAL_FILE ) %>``` because <%- %> tags allow you to output the unescaped content onto the page
 
 * Tags and Explanation of 'Includes'
-![Tags](/tags-includes.jpg)
+![Tags](tags-includes.jpg)
 
 
 Goes on to show other examples and summarizes that it is very straight forward, basicallt that this makes can passing data from our Node + Express application to our views in the next section easy. I agree,
