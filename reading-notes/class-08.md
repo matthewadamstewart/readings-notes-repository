@@ -18,21 +18,21 @@
         * Columns are the shared distinguishing characteristics of the items within the rows, basically like keyword value pairs of objcts but in a table format instead
         * Asterisk is shorthand for "All Columns"
         * Victory
-    ![My Victory Image](reading-8-lesson-1.JPG)
+    ![My Victory Image](/reading-8-lesson-1.JPG)
 
     * **Lesson 2**
         * Constrants allow conditional searching
         * Table of constrain operators
-        ![My Victory Image](constraint-table.JPG)
+        ![My Victory Image](/constraint-table.JPG)
         * Victory
-    ![My Victory Image](reading-8-lesson-2.JPG)
+    ![My Victory Image](/reading-8-lesson-2.JPG)
 
     * **Lesson 3** 
         * There are more operators for Constraints which allow matching strings in interesting way
         * Table there of
-        ![My Victory Image](string-matching-constraint-table.JPG)
+        ![My Victory Image](/string-matching-constraint-table.JPG)
         * Victory
-    ![My Victory Image](reading-8-lesson-3.JPG)
+    ![My Victory Image](/reading-8-lesson-3.JPG)
 
     * **Lesson 4**
         * ```DISTINCT``` allows finding rows with unique data, useful for finding duplicates

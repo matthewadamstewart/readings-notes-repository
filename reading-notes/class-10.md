@@ -33,7 +33,7 @@
     * console.log is a common way to do this
     * Using Node.js with Visual Studio Code has a debug tab
 * Call Stack, going through the console 
-![Console Within The Browser Debug](reading-10-debug.JPG)
+![Console Within The Browser Debug](/reading-10-debug.JPG)
 
 
 Additional Resources
