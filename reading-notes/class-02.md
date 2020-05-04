@@ -1,8 +1,8 @@
 # Readings-Notes-Repository
 
-## Class 01 notes for my Readings in Code Fellows 301 Course
+## Class 02 notes for my Readings in Code Fellows 301 Course
 
-[README.md](Back To Main)
+[Back to Main](https://matthewadamstewart.github.io/readings-notes-repository/)
 
 
 ### 

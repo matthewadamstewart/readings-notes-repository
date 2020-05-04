@@ -2,7 +2,7 @@
 
 ## Class 10 notes for my Readings in Code Fellows 301 Course
 
-[Back To Main](README.md)
+[Back To Main](https://matthewadamstewart.github.io/readings-notes-repository/)
 
 
 ### Reading

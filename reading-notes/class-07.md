@@ -2,7 +2,7 @@
 
 ## Class 01 notes for my Readings in Code Fellows 301 Course
 
-[Back To Main](README.md)
+[Back To Main](https://matthewadamstewart.github.io/readings-notes-repository/)
 
 
 ### [What Google Learned From Its Quest to Build the Perfect Team](https://www.google.com/amp/mobile.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.amp.html)
